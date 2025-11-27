@@ -12,7 +12,7 @@ Maria Julia;
 Maria Eduarda; 
 Maria Clara;
 Ana Lucy;
-pedro;
+Pedro;
 
 Preciso que faça uma auto biografia sobre ti, pensando com uma empresa pode contratar você.
 * **Lembre** do seu Portifolio e como suas hard e soft skill's pode ajudar e Lembre-se do Hikigai!
